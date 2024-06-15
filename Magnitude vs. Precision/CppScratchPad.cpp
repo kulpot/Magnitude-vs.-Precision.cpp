@@ -7,4 +7,5 @@ using std::endl;
 void main()
 {
 	// 9.999999 20
+	// 9.999999 
 }
