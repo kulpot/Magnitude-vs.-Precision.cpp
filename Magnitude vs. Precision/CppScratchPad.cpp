@@ -6,5 +6,5 @@ using std::endl;
 
 void main()
 {
-	// 9999999
+	// 9.999999
 }
